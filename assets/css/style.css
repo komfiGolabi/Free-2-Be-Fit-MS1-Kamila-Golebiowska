@@ -1,5 +1,6 @@
 body {
     font-family: "Oswald", sans-serif;
+    letter-spacing: 3px;
 }
 
 /*----------------------------------------------Header--------------------------------*/
@@ -10,5 +11,41 @@ body {
 
 h1 {
     color:#132C33;
+    letter-spacing: 1px;
+
+}
+ li a { 
+    color:#132C33 !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight:500;
+    font-size:22px;
+    margin-left:20px;
 }
 
+
+/*-------------------------------------------Botton-------------------------------*/
+
+.btn {
+    padding:12px, 0;
+    margin-right: 20px;
+    letter-spacing:3px;
+    font-size:1.2rem;
+    background-color: #132C33;
+}
+
+button a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color:#51c4d3;
+}
+
+button a:hover {
+    text-decoration: none;
+    color:#51c4d3;
+
+}
+.btn:hover{
+    background-color:#fefecc;
+    border-color:#fefecc;
+}
