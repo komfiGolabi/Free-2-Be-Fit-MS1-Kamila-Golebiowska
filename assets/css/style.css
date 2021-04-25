@@ -58,6 +58,22 @@ button a:hover {
     border-color:#fefecc;
 }
 
+/*-------------------------------------------Main Banner
+
+.main-banner{
+    height:100vh;
+    background-image: url("..images/cover.jpg");
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+   -o-background-size: cover;
+    background-size: cover;
+   display:flex;
+   align-items:center;
+  justify-content:center;
+   position: relative;
+}
+-------------------------------*/
+
 /*-------------------------------------------Footer-------------------------------*/
 footer {
     background-color:#51c4d3;
@@ -72,6 +88,7 @@ footer {
 
 footer h5 {
     text-transform: uppercase;
+    padding-top:5px;
 }
 .contact-us{
     margin-left:30px;
