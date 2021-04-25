@@ -1,7 +1,16 @@
 body {
     font-family: "Oswald", sans-serif;
     letter-spacing: 3px;
+    margin:0;
+    padding:0;
 }
+
+ body .container-fluid{
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 
 /*----------------------------------------------Header--------------------------------*/
 
@@ -74,12 +83,19 @@ button a:hover {
 }
 -------------------------------*/
 
+.carousel-item img {
+
+    
+}
+    
+
+
 /*-------------------------------------------Footer-------------------------------*/
 footer {
     background-color:#51c4d3;
     position: absolute;
     bottom:0px;
-    min-height: 100px;
+    min-height: 80px;
     width:100%;
     line-height:10px;
 
