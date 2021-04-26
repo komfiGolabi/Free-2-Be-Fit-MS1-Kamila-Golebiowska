@@ -67,23 +67,43 @@ button a:hover {
     border-color:#fefecc;
 }
 
-/*-------------------------------------------Main Banner-----*/
+/*-------------------------------------------Carousel-----*/
 
-
-/*
-.main-banner{
-    height:100vh;
-    background-image: url("..images/cover.jpg");
-   -webkit-background-size: cover;
-    -moz-background-size: cover;
-   -o-background-size: cover;
-    background-size: cover;
-   display:flex;
-   align-items:center;
-  justify-content:center;
-   position: relative;
+.image-fluid{
+    opacity: 0.9;
 }
--------------------------------*/
+
+.carousel-item{
+    position:relative;
+    float:left;
+    display:none;
+    width:100%;
+    margin-right: -100%;
+
+}
+.carousel-caption{
+    position: absolute;
+    right: 15%;
+    top: 150px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+.carousel-color{
+}
+
+.carousel-button {
+   display:inline-block;
+   vertical-align:middle;
+   
+}
+
+
+   
+
 
 .small-image {
 
