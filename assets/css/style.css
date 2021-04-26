@@ -67,8 +67,10 @@ button a:hover {
     border-color:#fefecc;
 }
 
-/*-------------------------------------------Main Banner
+/*-------------------------------------------Main Banner-----*/
 
+
+/*
 .main-banner{
     height:100vh;
     background-image: url("..images/cover.jpg");
@@ -83,20 +85,31 @@ button a:hover {
 }
 -------------------------------*/
 
+.small-image {
+
+    height:100px;
+    width:100px;
+    border-style: none;
+    margin: 20px;
+    float:left;
+    
+}
+
 
     
 
 
 /*-------------------------------------------Footer-------------------------------*/
+
 footer {
     background-color:#51c4d3;
     position: absolute;
-    bottom:0px;
+    bottom: 0;
     min-height: 80px;
-    width:100%;
+    width:  100%;
     line-height:10px;
 
-}
+       }
 
 
 footer h5 {
