@@ -12,6 +12,8 @@ body {
 }
 
 
+
+
 /*----------------------------------------------Header--------------------------------*/
 
 .bg-dark {
@@ -48,7 +50,7 @@ h1 {
     letter-spacing:3px;
     font-size:1.2rem;
     background-color: #132C33;
-    float:right;
+    
 }
 
 button a{
@@ -92,13 +94,12 @@ button a:hover {
     text-align: center;
 
 }
-.carousel-color{
-}
 
-.carousel-button {
-   display:inline-block;
-   vertical-align:middle;
-   
+
+
+.btncarousel{
+    margin-left:100px;
+    margin-top: 10px;
 }
 
 
@@ -124,7 +125,6 @@ button a:hover {
 footer {
     background-color:#51c4d3;
     position: absolute;
-    bottom: 0;
     min-height: 80px;
     width:  100%;
     line-height:10px;
@@ -135,6 +135,7 @@ footer {
 footer h5 {
     text-transform: uppercase;
     padding-top:5px;
+    font-size: medium;
 }
 .contact-us{
     margin-left:30px;
@@ -170,3 +171,10 @@ footer .col-4 {
     text-align:center;
     width:33%;
 }
+
+/*--------------------------------hr------------------------------*/
+.break-line{
+   background-color:#132C33;
+    width:70px;
+}
+ 
