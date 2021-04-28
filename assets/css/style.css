@@ -116,13 +116,20 @@ button a:hover {
     
 }
 /*-------------------------------------------Welcome Section-------------------------------*/
-
+.col-no-margin {
+    margin:0 !important;
+}
+.welcome-peace {
+  margin:0;
+}
 .welcome-text {
     background-color: antiquewhite;
     padding:10px,0, 15px;
     font-size:20px;
     letter-spacing:4px;
     text-transform: uppercase;
+    margin-left:0 !important;
+    float:left;
     
     
 
@@ -134,7 +141,13 @@ button a:hover {
 }
 
 .small-image{
-    background-image: url("../images/bands.jpg");
+    margin:0;
+    padding:0;
+    float:left;
+    vertical-align: middle;
+    background-position: 100%;
+    
+
 }
     
 
