@@ -1,8 +1,8 @@
 body {
     font-family: "Oswald", sans-serif;
     letter-spacing: 3px;
-    margin:0;
-    padding:0;
+     margin:0;
+     padding:0;
 }
 
  body .container-fluid{
@@ -17,7 +17,7 @@ body {
 /*----------------------------------------------Header--------------------------------*/
 
 .bg-dark {
-    background-color: #51c4d3!important;
+    background-color: #51c4d3 !important;
 }
 
 h1 {
@@ -160,13 +160,14 @@ button a:hover {
 /*-------------------------------------------Footer-------------------------------*/
 
 footer {
+    margin:0;
+    padding:0;
     background-color:#51c4d3;
+    background-size: cover;
     min-height: 120px;
-    width:  100%;
+    width: 100%;
     line-height:10px;
-
-
-       }
+    }
 
 
 footer h5 {
@@ -182,14 +183,9 @@ footer p,a{
 .contact-us{
     margin-left:30px;
     float:left;
+}   
     
-    
-}
 
-.services{
-    float:left;
-    
-}
 
 .socials {
    margin-right:30px;
@@ -209,9 +205,9 @@ footer a:hover{
     text-decoration: none;
 }
 
-footer .col-4 {
+footer .col-lg-5 {
     text-align:center;
-    width:33%;
+    width:50%;
 }
 
 /*--------------------------------hr------------------------------*/
