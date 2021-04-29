@@ -67,6 +67,7 @@ button a:hover {
 .btn:hover{
     background-color:#fefecc;
     border-color:#fefecc;
+    
 }
 
 /*-------------------------------------------Carousel-----*/
@@ -81,6 +82,7 @@ button a:hover {
     display:none;
     width:100%;
     margin-right: -100%;
+    height:800px;
 
 }
 .carousel-caption{
@@ -130,27 +132,30 @@ button a:hover {
     text-transform: uppercase;
     margin-left:0 !important;
     float:left;
-    
-    
-
-}
+    }
 
 .sub-heading{
     padding:5px 0;
-
 }
 
+.featurette{
+    margin-top:0;
+    background-color:antiquewhite;
+}
+
+.section-divider {
+    background-color: antiquewhite;
+}
+/*
 .small-image{
     margin:0;
     padding:0;
     float:left;
     vertical-align: middle;
     background-position: 100%;
+    }
     
-
-}
-    
-
+*/
 
 /*-------------------------------------------Footer-------------------------------*/
 

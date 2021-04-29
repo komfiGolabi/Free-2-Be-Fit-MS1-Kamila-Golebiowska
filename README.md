@@ -43,8 +43,12 @@ This section will have all information of how to contact the studio, as well as 
  * how easy it is to find the services and how easy it is to sign up
 
  ### Returning User
+* how easy I can check the timetable
+* if I can comunicate in and easy way
+* simple and effective booking system
 
- 
+
+
  
 
 
