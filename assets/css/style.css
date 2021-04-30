@@ -246,3 +246,17 @@ footer .col-lg-5 {
     --breakpoint-lg: 992px;
     --breakpoint-xl: 1200px
 ---*/
+
+
+/*-------------------------Fees and timetable----------------------------*/
+
+.fees {
+    background-color:antiquewhite;
+    text-align: center;
+}
+.fee-heading {
+    text-transform: uppercase;
+}
+.fee-p {
+    font-size:20px;
+}
