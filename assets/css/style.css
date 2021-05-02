@@ -125,12 +125,11 @@ button a:hover {
 }
 .welcome-text {
     background-color: antiquewhite;
-    padding:10px,0, 15px;
+    padding:25px 10px;
     font-size:20px;
     letter-spacing:4px;
     text-transform: uppercase;
-    margin-left:0 !important;
-    float:left;
+
     }
 
 .sub-heading{
@@ -222,36 +221,7 @@ footer .col-lg-5 {
     width:70px;
 }
 
-/*--------------------------------Media Querys------------------------------*/
 
-@media only screen and (min-width: 375px) {
-
-    nav {
-        height:80px;
-    }
-   button .navbar-toggler {
-        margin-top:30px;
-        padding:5rem 1rem;
-    }
-
-   
-
-#navbarNavDropdown {
-    text-align:center;
- }
- 
- .name{
-     text-align:center;
-     padding-left:15px;
-     font-size:30px;
-     padding-bottom:10px;
- }
-
- .btn-navbar {
-     display:none;
- }
-
-}
 
 /*--
 @media only screen and (min-width: 600px)
@@ -276,4 +246,28 @@ footer .col-lg-5 {
 }
 .fee-p {
     font-size:20px;
+}
+
+
+/*--------------------------------Media Querys------------------------------*/
+
+@media (min-width: @screen-sm-min) {
+
+ header li a {
+     text-align: center;
+ }
+
+ .btn-navbar {
+     display: none;
+ }
+
+
+}
+
+@media (min-width: @screen-md-min){
+
+}
+
+@media (min-width: @screen-md-min){
+
 }
