@@ -5,10 +5,9 @@ body {
      padding:0;
 }
 
- body .container-fluid{
-    width: 100%;
-    margin-right: auto;
-    margin-left: auto;
+ .container-fluid{
+    margin:0;
+    padding:0;
 }
 
 
@@ -171,7 +170,6 @@ footer {
     margin:0;
     padding:0;
     background-color:#51c4d3;
-    background-size: cover;
     min-height: 120px;
     width: 100%;
     line-height:10px;
@@ -226,14 +224,33 @@ footer .col-lg-5 {
 
 /*--------------------------------Media Querys------------------------------*/
 
-@media only screen and (max-width: 600px) {
-    .navbar-toggler {
-        top:0;
-        right:0;
+@media only screen and (min-width: 375px) {
+
+    nav {
+        height:80px;
     }
-.navbar-collapse ul li button {
+   button .navbar-toggler {
+        margin-top:30px;
+        padding:5rem 1rem;
+    }
+
+   
+
+#navbarNavDropdown {
     text-align:center;
  }
+ 
+ .name{
+     text-align:center;
+     padding-left:15px;
+     font-size:30px;
+     padding-bottom:10px;
+ }
+
+ .btn-navbar {
+     display:none;
+ }
+
 }
 
 /*--
