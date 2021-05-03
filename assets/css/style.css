@@ -244,11 +244,36 @@ footer .col-lg-5 {
 }
 .fee-heading {
     text-transform: uppercase;
-    padding-top:20px;
+    padding-top:10px;
     padding-bottom:10px;
+    text-align:center;
 }
 .fee-p {
     font-size:20px;
+}
+
+.col {
+    padding-right:0;
+}
+
+
+element.style {
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    text-align: center;
+    border-color: #132C33#132C33;
+
+    
+}
+
+.fee-divider {
+    margin-bottom:15px;
 }
 
 
