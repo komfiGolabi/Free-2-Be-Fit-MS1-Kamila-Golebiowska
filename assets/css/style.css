@@ -240,9 +240,12 @@ footer .col-lg-5 {
 .fees {
     background-color:antiquewhite;
     text-align: center;
+    margin-top:75px;
 }
 .fee-heading {
     text-transform: uppercase;
+    padding-top:20px;
+    padding-bottom:10px;
 }
 .fee-p {
     font-size:20px;
