@@ -259,7 +259,7 @@ footer .col-lg-5 {
 
 element.style {
 }
-*, ::after, ::before {
+::after, ::before {
     box-sizing: border-box;
 }
 
@@ -279,7 +279,7 @@ thead {
 
 /*--------------------------------Media Querys------------------------------*/
 
-@media (min-width: @screen-sm-min) {
+@media (min-width:460px) {
 
  header li a {
      text-align: center;
@@ -288,7 +288,9 @@ thead {
  .btn-navbar {
      display: none;
  }
-
+.carousel-item{
+    height:100%;
+}
 
 }
 
