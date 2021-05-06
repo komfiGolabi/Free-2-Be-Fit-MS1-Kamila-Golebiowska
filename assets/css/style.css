@@ -254,6 +254,7 @@ footer .col-lg-5 {
     position:absolute;
 }
 
+
 .btn-submit {
     background-color:#132C33;
     color:#51c4d3;
@@ -265,6 +266,10 @@ footer .col-lg-5 {
 .btn-submit:hover {
     background-color:#51c4d3;
     color:#132C33;
+}
+
+.contact-info{
+    text-align:center;
 }
 
 
