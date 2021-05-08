@@ -216,6 +216,16 @@ footer .col-lg-5 {
     width:50%;
 }
 
+
+.card-text,
+.card-title {
+    text-align: center;
+}
+
+.card-body {
+    background-color: #51c4d3;
+}
+
 /*--------------------------------hr------------------------------*/
 .break-line{
    background-color:#132C33;
@@ -270,6 +280,7 @@ footer .col-lg-5 {
 
 .contact-info{
     text-align:center;
+    background-color: antiquewhite;
 }
 
 
@@ -326,6 +337,12 @@ thead {
 
 .fee-divider {
     margin-bottom:15px;
+}
+
+.extra-booking-info {
+    background-color: antiquewhite;
+    padding-left: 15px;
+    padding-right: 10px;
 }
 
 
