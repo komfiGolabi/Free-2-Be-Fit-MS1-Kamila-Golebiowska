@@ -312,8 +312,7 @@ footer a:hover{
 }
 
 .fee-heading {
-    text-transform: uppercase;
-    padding-top:10px;
+    padding-top:20px;
     padding-bottom:10px;
     text-align:center;
 }
@@ -369,11 +368,16 @@ thead {
 }
 .services-text {
     font-size: 20px;
-   
 }
 .services h1 {
     margin-bottom: 20px;
     margin-top:20px;
+   
+}
+
+.top-heading {
+    padding-top:75px;
+
 }
        
    
