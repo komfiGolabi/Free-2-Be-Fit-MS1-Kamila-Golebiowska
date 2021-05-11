@@ -122,12 +122,15 @@ button a:hover {
     
 }*/
 /*-------------------------------------------Welcome Section-------------------------------*/
+
+/*---------
 .col-no-margin {
     margin:0 !important;
 }
 .welcome-peace {
   margin:0;
 }
+*/
 .welcome-text {
     background-color: antiquewhite;
     margin-left:20px;
@@ -235,6 +238,8 @@ footer a:hover{
    background-color:#132C33;
     width:70px;
 }
+
+
 
 /*--------------------------------Form Section------------------------------*/
 
