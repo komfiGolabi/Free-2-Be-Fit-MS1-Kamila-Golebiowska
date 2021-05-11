@@ -140,7 +140,7 @@ button a:hover {
     text-transform: uppercase;
 
     }
-
+/*
 .sub-heading{
     padding:5px 0;
 }
@@ -233,12 +233,12 @@ footer a:hover{
     background-color: #51c4d3;
 }
 
-/*--------------------------------hr------------------------------*/
+/*--------------------------------hr-
 .break-line{
    background-color:#132C33;
     width:70px;
 }
-
+-----------------------------*/
 
 
 /*--------------------------------Form Section------------------------------*/
