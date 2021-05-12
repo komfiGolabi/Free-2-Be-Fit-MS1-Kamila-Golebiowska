@@ -358,8 +358,10 @@ thead {
     opacity: 0.9;
     border-radius: 2%;
 }
-
 .kcr {
+    background-color: antiquewhite;  
+}
+.group-classes {
     background-color: antiquewhite;
 }
 
@@ -373,6 +375,9 @@ thead {
     margin-bottom: 20px;
     margin-top:20px;
    
+}
+.services-list {
+    padding-top:20px;
 }
 
 .top-heading {
