@@ -259,8 +259,8 @@ footer a:hover{
 }
 
 .form-box {
-    top: 30%;
-    left: 33%;
+    top: 20%;
+    left: 0;
 
     margin: 20px;
     max-width: 500px;
@@ -407,7 +407,6 @@ thead {
 }
 .form-box{
     position:relative;
-}
 
 }
 
@@ -418,6 +417,7 @@ thead {
 .form-box{
     position:relative;
     width:100%;
+    
 }
 .form-image {
     margin-top:80px;
