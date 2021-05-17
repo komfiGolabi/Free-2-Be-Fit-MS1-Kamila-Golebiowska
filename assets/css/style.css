@@ -385,8 +385,7 @@ thead {
     font-size: 20px;
 }
 .services h1 {
-    margin-bottom: 20px;
-    margin-top:20px;
+   
    
 }
 .services-list {
@@ -396,6 +395,8 @@ thead {
 
 .top-heading {
     padding-top:75px;
+    margin-bottom: 20px;
+    margin-top:20px;
 
 }
        
