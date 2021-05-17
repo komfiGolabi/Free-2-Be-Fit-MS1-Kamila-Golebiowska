@@ -46,7 +46,9 @@ h1 {
     padding-left:0;
     font-size:35px;
 }
-
+.navbar-toggler {
+    float:right;
+}
 
 /*-------------------------------------------Botton-------------------------------*/
 
@@ -74,9 +76,14 @@ button a:hover {
 .btn:hover{
     background-color:#fefecc;
     border-color:#fefecc;
-
-    
+    cursor:pointer;
 }
+
+.btn-submit{
+    cursor:pointer;
+}
+
+
 
 /*-------------------------------------------Carousel-----*/
 
@@ -110,6 +117,7 @@ button a:hover {
 .btncarousel{
     margin-left:50px;
     margin-top: 10px;
+    cursor:pointer;
 }
 
 
@@ -265,13 +273,14 @@ footer a:hover{
 .form-box {
     top: 20%;
     left: 0;
-
     margin: 20px;
     max-width: 500px;
+    height:auto;
     padding:15px;
     background-color:antiquewhite;
     text-transform: uppercase;
     position:absolute;
+    overflow:auto;
 }
 
 
@@ -409,30 +418,48 @@ thead {
 .carousel-item{
     height:100%;
 }
-.form-box{
-    position:relative;
-
+ .form-box{
+    position:absolute;
+    overflow:auto;
+}
 }
 
 @media screen and (max-width:768px){
+
+    .btn-navbar {
+        display: none;
+    }
+
+    .navbar-toggler {
+        display: inline-block;
+    }
     .carousel-item{
         height:100%;
 }
-.form-box{
-    position:relative;
+ .form-box{
+    position:absolute;
     width:100%;
+    top:15%;
+    
     
 }
-.form-image {
+ .form-image {
     margin-top:80px;
     width:100%;
 }
+
 }
 
 
 @media screen and (max-width:992px) {
+
  .btn-navbar {
     display: none;
 }
+.navbar-nav {
+    display:inline-flex;
+    font-size: x-small;
+}
+
 
 }
