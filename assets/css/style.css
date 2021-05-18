@@ -98,6 +98,7 @@ button a:hover {
     width:100%;
     margin-right: -100%;
     height:auto;
+    margin-top:-70px;
 
 }
 .carousel-caption{
@@ -332,7 +333,6 @@ footer a:hover{
 .fees {
     background-color:antiquewhite;
     text-align: center;
-    margin-top:75px;
 }
 
 .fee-heading {
@@ -387,6 +387,7 @@ thead {
 }
 .group-classes {
     background-color: antiquewhite;
+    margin-top:-30px;
 }
 
 .pt-services{
@@ -404,8 +405,12 @@ thead {
 .top-heading {
     padding-top:75px;
     margin-bottom: 20px;
-    margin-top:20px;
+    margin-top:-20px;
 
+}
+.head-121{
+    margin-top:-70px;
+    margin-bottom:20px;
 }
        
    
