@@ -133,27 +133,10 @@ button a:hover {
 
 
    
-/*
 
-.small-image {
-
-    height:100px;
-    width:100px;
-    border-style: none;
-    margin: 20px;
-    float:left;
-    
-}*/
 /*-------------------------------------------Welcome Section-------------------------------*/
 
-/*---------
-.col-no-margin {
-    margin:0 !important;
-}
-.welcome-peace {
-  margin:0;
-}
-*/
+
 .welcome-text {
     background-color: antiquewhite;
     margin-left:20px;
@@ -194,6 +177,8 @@ button a:hover {
 .testimonials {
     text-align: center;
     padding-top:15px;
+    line-height:35px;
+    background-color: antiquewhite;
 }
 
 .testimonials-header{
