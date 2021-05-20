@@ -31,6 +31,7 @@ h1,h2{
 h1 {
     color:#132C33;
     letter-spacing: 1px;
+    padding-top: 10px;
 
 }
  header li a { 
@@ -188,11 +189,18 @@ button a:hover {
 
 .testimonials {
     text-align: center;
+    padding-top:15px;
 }
 
 .testimonials-header{
     padding-bottom:20px;
 }
+
+.rounded-circle{
+    margin-bottom:20px;
+}
+
+
 /*-------------------------------------------Footer-------------------------------*/
 /*
 footer {
@@ -249,6 +257,18 @@ footer a:hover{
 
 .card-body {
     background-color: #51c4d3;
+}
+
+.contact-us {
+    padding-top:25px;
+
+}
+.follow-us {
+    padding-top:40px;
+}
+
+.services {
+    padding-top: 30px;
 }
 
 /*--------------------------------hr-
@@ -348,8 +368,6 @@ thead {
     vertical-align: middle;
     text-align: center;
     border-color:#132C33;
-
-    
 }
 
 .fee-divider {
@@ -390,6 +408,7 @@ thead {
 
 .services-list {
     padding-top:20px;
+    line-height:45px;
   
 }
 
@@ -413,60 +432,58 @@ thead {
 
 @media screen and (max-width:460px) {
 
- header li a {
-     text-align: center;
- }
+    header li a {
+        text-align: center;
+    }
 
- .btn-navbar {
-     display: none;
- }
- .carousel-item{
-    height:100%;
-}
- .form-box{
-    position:absolute;
-    overflow:auto;
-}
+    
+   
+    .btn-navbar {
+        display: none;
+    }
+    .carousel-item{
+       height:100%;
+   }
 
-}
-
-@media screen and (max-width:768px){
+   .btncarousel{
+       margin-bottom:30px;
+   }
+    .form-box{
+       position:absolute;
+       overflow:auto;
+   }
+   
+   }
+   
+   @media screen and (max-width:768px){
 
     .btn-navbar {
         display: none;
     }
-
-    .navbar-toggler {
-        display: inline-block;
+    .navbar-nav li a{
+        font-size: small;
     }
-    .carousel-item{
-        height:100%;
-}
- .form-box{
-    position:relative;
-    width:100%;
-    top:10%;
-    margin:10px;
-    padding:10px;
-}
-
- .form-image {
-    margin-top:80px;
-    width:100%;
-}
-
-}
-
-
-@media screen and (max-width:992px) {
-
- .btn-navbar {
-    display: none;
-}
-.navbar-nav {
-    display:inline-flex;
-    font-size: x-small;
-}
-
-
-}
+    .name{
+        padding-top: 20px;
+        font-size: large;
+    }
+   
+    .navbar-toggler {
+           display: inline-block;
+       }
+    .carousel-item {
+           height:100%;
+   }
+    .form-box{
+       position:relative;
+       width:100%;
+       top:10%;
+       margin:10px;
+       padding:10px;
+   }
+   
+    .form-image {
+       margin-top:80px;
+       width:100%;
+   }
+ }
