@@ -49,7 +49,7 @@ h1 {
     float:left;
     margin-left:0;
     padding-left:0;
-    font-size:35px;
+    font-size:30px;
 }
 .navbar-toggler {
     float:right;
@@ -316,16 +316,7 @@ footer a:hover{
 
 
 
-/*--
-@media only screen and (min-width: 600px)
-@media only screen and (min-width: 768px)
-@media only screen and (min-width: 992px)
 
-   
-    --breakpoint-md: 768px;
-    --breakpoint-lg: 992px;
-    --breakpoint-xl: 1200px
----*/
 
 
 /*-------------------------Fees and timetable----------------------------*/
@@ -429,7 +420,7 @@ thead {
  .btn-navbar {
      display: none;
  }
-.carousel-item{
+ .carousel-item{
     height:100%;
 }
  .form-box{
