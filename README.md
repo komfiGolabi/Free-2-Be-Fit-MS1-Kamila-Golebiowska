@@ -2,6 +2,8 @@
 ##  Code created by Kamila Golebiowska for Code Institute
 ## Languages used: HMTL, CSS and Bootstrap Framework.
 
+![alt text](.assets/images/responsive.png "Project")
+
 
 ## Project description and goals:
 

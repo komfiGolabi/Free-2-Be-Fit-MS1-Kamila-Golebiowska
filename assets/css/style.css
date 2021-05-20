@@ -425,17 +425,20 @@ thead {
         text-align: center;
     }
 
-    
-   
     .btn-navbar {
         display: none;
     }
+    .navbar-toggler {
+        display: inline-block;
+     
+    }
     .carousel-item{
        height:100%;
+       padding-top: 20px;
    }
 
    .btncarousel{
-       margin-bottom:30px;
+       margin-bottom:50px;
    }
     .form-box{
        position:absolute;
@@ -457,9 +460,6 @@ thead {
         font-size: large;
     }
    
-    .navbar-toggler {
-           display: inline-block;
-       }
     .carousel-item {
            height:100%;
    }
