@@ -321,6 +321,12 @@ footer a:hover{
 .contact-info{
     text-align:center;
     background-color: antiquewhite;
+    line-height: 40px;
+}
+
+.serv-head {
+    padding:20px 0;
+    justify-content: center;
 }
 
 
