@@ -425,7 +425,25 @@ thead {
 
 /*--------------------------------Media Querys------------------------------*/
 
+@media screen and (max-width:360px) {
+    .name {
+        padding-left:10px;
+        padding-right:50px;
+        font-size:small;
+    }
+    .navbar-toggler {
+        float:right;
+    }
+    .navbar {
+        padding-left:0;
+    }
+}
+
 @media screen and (max-width:460px) {
+
+    body {
+        padding-top:60px;
+    }
 
     header li a {
         text-align: center;
@@ -436,7 +454,11 @@ thead {
     }
     .navbar-toggler {
         display: inline-block;
+        float:right;
      
+    }
+    .carousel-title {
+        font-size:medium;
     }
     .carousel-item{
        height:100%;
@@ -445,12 +467,25 @@ thead {
 
    .btncarousel{
        margin-bottom:50px;
+       font-size:small;
    }
     .form-box{
        position:absolute;
        overflow:auto;
    }
    
+   }
+
+   @media screen and (max-width:540px){
+    
+       .navbar {
+           padding-bottom: 20px;
+           
+       }
+       .name {
+           margin-right:120px;
+       }
+
    }
    
    @media screen and (max-width:768px){
@@ -459,10 +494,12 @@ thead {
         display: none;
     }
     .navbar-nav li a{
-        font-size: small;
+        font-size: medium;
     }
     .name{
-        padding-top: 20px;
+        padding-top: 10px;
+        padding-right: 80px;
+        padding-left:20px;
         font-size: large;
     }
    
