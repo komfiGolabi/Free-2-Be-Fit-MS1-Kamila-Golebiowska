@@ -1,8 +1,8 @@
 body {
     font-family: "Oswald", sans-serif;
     letter-spacing: 3px;
-     margin:0;
-     padding:70px 0 0 0;
+    margin:0;
+    padding:70px 0 0 0;
      
 }
 
@@ -425,19 +425,29 @@ thead {
 
 /*--------------------------------Media Querys------------------------------*/
 
-@media screen and (max-width:360px) {
+/*
+
+@media screen and (max-width:360px to min-width:460px) {
+
     .name {
         padding-left:10px;
-        padding-right:50px;
+        padding-right:10px;
         font-size:small;
+    }
+
+    .navbar-brand {
+        margin-right: 0;
     }
     .navbar-toggler {
         float:right;
     }
     .navbar {
         padding-left:0;
+        margin-right:0;
     }
+   
 }
+*/
 
 @media screen and (max-width:460px) {
 
@@ -454,8 +464,10 @@ thead {
     }
     .navbar-toggler {
         display: inline-block;
-        float:right;
-     
+    }
+
+    .navbar-brand {
+        margin-right: 0;
     }
     .carousel-title {
         font-size:medium;
@@ -475,18 +487,25 @@ thead {
    }
    
    }
+  
 
    @media screen and (max-width:540px){
     
        .navbar {
-           padding-bottom: 20px;
+           padding-bottom: 10px;
            
        }
-       .name {
-           margin-right:120px;
+        /*
+       
+       .navbar-brand {
+           margin-right:0;
        }
+       .name {
+           margin-right:100px;
+       }
+    }
 
-   }
+    */
    
    @media screen and (max-width:768px){
 
@@ -518,4 +537,4 @@ thead {
        margin-top:80px;
        width:100%;
    }
- }
+}
