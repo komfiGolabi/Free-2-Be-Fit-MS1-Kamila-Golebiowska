@@ -2,7 +2,7 @@
 ##  Code created by Kamila Golebiowska for Code Institute
 ## Languages used: HMTL, CSS and Bootstrap Framework.
 
-![Project on different devices]()
+![Project on different devices](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/responsive.png)
 
 
 ## Project description and goals:
@@ -79,6 +79,10 @@ Hompage:
 ## Testing
 
 ## Deployment
+
+1. Created repository with the title of the page "Free-2-Be-Fit".
+2. I worked on my site and in the cdr terminal was adding the changes, then commiting them with the information about the changes, once I was happy with everything I worked with I was pushing it,so it is stored in Git Hub.
+3. To make a shareable link of my project, once in the repository, I went into Settings, then in the Git Hub Pages sections in the source window I put master branch and /root file. I saved it and it created the link within the repository.
  
 
 
