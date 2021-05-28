@@ -42,7 +42,9 @@ This section will have all information of how to contact the studio, as well as 
  ### Features to add in future
 
  * map of the location. 
- * videos of the classes   
+ * videos of the classes  
+ * to exchange photos for the ones taken at the studio
+ * adding an ifo about the trainers and staff 
 
 
 
@@ -68,10 +70,59 @@ This section will have all information of how to contact the studio, as well as 
 ### Content
 All text content was written by me-Kamila Golebiowska. I used some advice from Kasia Golebiowska, who is herself a fitness instructor to help me describe the services and classes well.
 
-### Images
+
+### Images 
 
 Hompage:
 
+* [Lady and the blue background from Pexels.com](https://www.pexels.com/photo/woman-wearing-pink-sports-bra-and-black-shorts-1223356/)
+* [Dumbell and Shoes](file:///C:/Users/komfa/Downloads/dumbbells-2465478_1920.jpg)
+* [Welcome Image](https://www.theglobeandmail.com/life/health-and-fitness/health-advisor/strengthen-your-glutes-for-better-balance-and-less-pain/article36799024/)
+* [Testimonial 1-taken from Unsplash.com](https://unsplash.com/photos/2EGNqazbAMk)
+* [Testimonial 2- taken from Unsplash.com](https://unsplash.com/photos/tNCH0sKSZbA)
+* [Testimonial 3- taken from Unsplash.com](https://unsplash.com/photos/SKFdd8JGU-0)
+
+Services:
+
+* [Group Exercises-taken from Unsplash.com](https://unsplash.com/photos/3ckWUnaCxzc)
+* [One to One- taken from Unsplash.com](https://unsplash.com/photos/R0y_bEUjiOM)
+* [Therapies- taken from Unsplash.com](https://unsplash.com/photos/J16LdoIsRJM)
+
+Contact:
+
+* [Form Background image- taken from Unsplash.com](https://unsplash.com/photos/J154nEkpzlQ)
+
+
+### Icons and Fonts
+
+Font I used was Oswald taken from [Google Fonts](https://fonts.google.com/) 
+
+Logo and Icons used free icons from [Font Awesome](https://fontawesome.com/?from=io)
+### Code
+
+I used certain parts of code from other sources and modified it for my needs
+ * Navbar Menu was taken from Whiskey Drop Project from Code Institute, as it used Bootstrap and a navbar toggler button, then I modified the rest with my own styling in CSS.
+
+ * The inspiration for my page was an example from Bootstrap, where I applied certain parts of it , inluding carousel, 
+ testimonial parts, as well as the photos lay out which I used in the services section of my project.
+ [Example from Bootstrap](https://getbootstrap.com/docs/5.0/examples/carousel/)
+
+ * Carousel was taken from Carousel section of the Bootstrap components and modified.
+ [Carousel-Slides Only](https://getbootstrap.com/docs/4.6/components/carousel/)
+ * Idea behind the welcome section in homepage and services layout was taken from Bootstrap example mentioned above and modified.
+ * Testimonials sections were taken from the above mentioned Bootstrap Example and Whiskey Drop project was checked for the images and modified for my own use.
+ * Timetable format was taken from Bootstrap using striped table rows 
+ [Striped row Table](https://getbootstrap.com/docs/4.6/content/tables/)
+ * Booking form was taken from the Bootstrap component section and modified for the project.
+ [Form- form control](https://getbootstrap.com/docs/4.6/components/forms/)
+* Footer used Bootsrtap Card group, but removed the images from it.
+[Bootstrap Card Group](https://getbootstrap.com/docs/4.6/components/card/#header-and-footer)
+
+
+ I used various sources to help me when I was stuck, including:
+ * [Stack Overflow](https://stackoverflow.com/)
+* [Free Code Camp](https://www.freecodecamp.org/)
+* [W3 schools](https://www.w3schools.com/html/default.asp)
 
 
 ## Handling Bugs and what is remaining
