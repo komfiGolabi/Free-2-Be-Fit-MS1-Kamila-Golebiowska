@@ -41,11 +41,12 @@ This section will have all information of how to contact the studio, as well as 
 
  ### Features to add in future
 
- * map of the location. 
+ * location to be added and a map of it 
  * videos of the classes  
  * to exchange photos for the ones taken at the studio
  * adding an ifo about the trainers and staff 
-
+ * once email is set up there will be link in the footer that takes you to the pop-up e-mail message box.
+* every class or type of service in booking form will have only choice of dates and time when it is actually available or in timetable.
 
 
  ## User Goals
@@ -126,8 +127,40 @@ I used certain parts of code from other sources and modified it for my needs
 
 
 ## Handling Bugs and what is remaining
+### My struggles
+* I had an issue with the default Bootstrap margin, even though I set margin and padding of the body to 0, used Chrome Dev Tool to find the way to remove it, my making a margin of the row class to -15px.
+* issues with original footer, that even though it was enwrapped in Bootstrap columns it wasn't responsive. In result I changed the layout to Bootstrap cards, that sorted this issue out.
+* Carousel Images, the height of it wasn't responsive and once the screen was changed it was leaving an empty space between the images and the welcome section. I used a lot of googling and after trying various ways changing height to auto did the work.
+* Booking form was spilling into the next div on different devices. After some research,setting box-sizing into border-box made a difference.
+
+* I had some issues with responsivenesss so I used media querys to fix the issues,for example in an 768px screen the navbar wasnt responsive, so I had to change the font size of the links.
+
+ ### Existing Bugs
+ * On 768px screen the Instagram icon appears next to Facebook link instead of Instagram link.
+ * Background photos might sometimes load slower.
+
+
+
 
 ## Testing
+
+[HTML Validator Page](https://validator.w3.org/)
+[CSS Validator Page](https://jigsaw.w3.org/css-validator/)
+
+ ### First Time User:
+
+ * it is clearly stated what is the philosophy of the business in the welcome section of the homepage
+ * it was important for me to feel that this business fitness is for everyone, any levels,any background and I totally feel it is. It has been few times mentioned that is inclusive and everyone can find services according to their needs. Testimonials give us perspective from every level of fitness, so it makes it feel trustworthy.
+ * Layout is very mellow and positive. It is not aggressive and it makes me think that the approach of the business to fitness is more holistic, approaching its from the lifestyle change side and light hearted place, rather than paying attention only to the physique.
+ * There are clearly stated the services it provides, for the future more of the videos of the particular classes would be helpful.
+ * page is practical and functional, easy to manouvre
+ * It is easy to find a booking page and buttons on the navbar are helpful to do so.
+
+ ### Returning User
+
+* As a regular customer it is important for me to find a timetable easy and that it is clear to see all the schedule. I think the page provides just that.
+* The links to social media help to get an easy access to get in touch with business, e-mail is provided, would be nice to have a direct link to it as well.
+* Booking system is working well, the only that would help for the future is to have, for every particular class the choice of time and date when they are in schedule, rather than all days and times.
 
 ## Deployment
 
