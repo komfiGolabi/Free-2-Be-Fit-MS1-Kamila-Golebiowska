@@ -67,6 +67,8 @@ This section will have all information of how to contact the studio, as well as 
 
 ## Wireframes
 
+
+
 ## Credits
 ### Content
 All text content was written by me-Kamila Golebiowska. I used some advice from Kasia Golebiowska, who is herself a fitness instructor to help me describe the services and classes well.
@@ -121,7 +123,7 @@ I used certain parts of code from other sources and modified it for my needs
 
 
  I used various sources to help me when I was stuck, including:
- * [Stack Overflow](https://stackoverflow.com/)
+* [Stack Overflow](https://stackoverflow.com/)
 * [Free Code Camp](https://www.freecodecamp.org/)
 * [W3 schools](https://www.w3schools.com/html/default.asp)
 
@@ -145,7 +147,19 @@ I used certain parts of code from other sources and modified it for my needs
 ## Testing
 
 [HTML Validator Page](https://validator.w3.org/)
+* After testing Homepage had no errors, only three errors regarding the use of h1 element, as I used it not only in the navbar as a name, but as well on carousel images.
+* services page had no errors or warnings after putting the code as a direct input into the html validator page.
+* Fees and timetable page showed no errors of warnings after putting the code as a direct input into the html validator page.
+* contact page showed no errors or warnings after putting the code as a direct input into the html validator page.
+
 [CSS Validator Page](https://jigsaw.w3.org/css-validator/)
+* Code from style.css was copied as a direct input into the CSS validator page and no errors were found, only one warning, where I put button background color and a border in the same color.
+[!CSS Validation Page](css)
+
+Google Dev Tool
+* used throughout all the project 
+
+Lighthouse
 
  ### First Time User:
 

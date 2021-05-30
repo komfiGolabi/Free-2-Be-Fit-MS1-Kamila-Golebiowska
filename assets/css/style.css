@@ -207,9 +207,11 @@ footer a:hover{
 /*--------------------------------Form Section------------------------------*/
 .book-class {
     background-image:url("../images/outside-fitness-comp.jpg");
+    /*
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    */
     background-size: cover;
     background-repeat: no-repeat;
     background-size:cover;
