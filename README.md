@@ -154,7 +154,6 @@ I used certain parts of code from other sources and modified it for my needs
 
 [CSS Validator Page](https://jigsaw.w3.org/css-validator/)
 * Code from style.css was copied as a direct input into the CSS validator page and no errors were found, only one warning, where I put button background color and a border in the same color.
-[!CSS Validation Page](css)
 
 Google Dev Tool
 * used throughout all the project 
