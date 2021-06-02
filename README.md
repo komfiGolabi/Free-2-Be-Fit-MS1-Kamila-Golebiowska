@@ -101,6 +101,7 @@ Contact:
 Font I used was Oswald taken from [Google Fonts](https://fonts.google.com/) 
 
 Logo and Icons used free icons from [Font Awesome](https://fontawesome.com/?from=io)
+
 ### Code
 
 I used certain parts of code from other sources and modified it for my needs
@@ -140,6 +141,7 @@ I used certain parts of code from other sources and modified it for my needs
  ### Existing Bugs
  * On 768px screen the Instagram icon appears next to Facebook link instead of Instagram link.
  * Background photos might sometimes load slower.
+ 
 
 
 

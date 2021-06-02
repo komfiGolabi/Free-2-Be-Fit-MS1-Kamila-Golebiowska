@@ -379,7 +379,10 @@ thead {
         padding-left:0;
         margin-right:0;
     }
-   
+    input#date {
+        display: block;
+        margin-bottom: 25px;
+    }
 }
 
 
@@ -425,6 +428,11 @@ thead {
        position:absolute;
        overflow:auto;
    }
+
+    input#date {
+        display: block;
+        margin-bottom: 25px;
+    }
    
    }
   
@@ -453,7 +461,8 @@ thead {
         display: none;
     }
     .navbar-nav li a {
-        font-size: small;
+        font-size: x-small;
+        margin-top: 5px;
     }
     .name {
         padding-top: 10px;
@@ -485,3 +494,21 @@ thead {
        width:100%;
      }
     }
+
+@media screen and (min-width:769px) and (max-width:1024px){
+    .navbar-nav li a {
+        font-size: medium;
+        margin-top: 5px;
+    }
+
+    .btn-navbar {
+        display: none;
+    }
+}
+
+@media screen and (min-width:1024px) and (max-width:1148px) {
+.navbar-nav li a {
+    font-size: medium;
+    margin-top: 5px; 
+ }
+}
