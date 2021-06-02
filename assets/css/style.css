@@ -185,7 +185,9 @@ footer a:hover{
 
 .card-body {
     background-color: #51c4d3;
+
 }
+
 
 .contact-us {
     padding-top:25px;
@@ -204,11 +206,6 @@ footer a:hover{
 /*--------------------------------Form Section------------------------------*/
 .book-class {
     background-image:url("../images/outside-fitness-comp.jpg");
-    /*
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    */
     background-size: cover;
     background-repeat: no-repeat;
     background-size:cover;
@@ -433,32 +430,15 @@ thead {
         display: block;
         margin-bottom: 25px;
     }
-   
    }
   
- /*
-   @media screen and (max-width:540px){
-    
-       .navbar {
-           padding-bottom: 10px;
-           
-       }
-    }
-       
-       
-       .navbar-brand {
-           margin-right:0;
-       }
-       .name {
-           margin-right:100px;
-       }
-    }
-
-    */
     @media screen and (max-width:768px){
 
     .btn-navbar {
         display: none;
+    }
+    body {
+        padding-top:60px;
     }
     .navbar-nav li a {
         font-size: x-small;
@@ -493,6 +473,14 @@ thead {
        margin-top:80px;
        width:100%;
      }
+
+    footer a {
+        display: block;
+     }
+    .card-group>.card {
+        margin-bottom: 0px;
+    }
+    
     }
 
 @media screen and (min-width:769px) and (max-width:1024px){
@@ -504,6 +492,9 @@ thead {
     .btn-navbar {
         display: none;
     }
+    footer a {
+        display: block;
+     }
 }
 
 @media screen and (min-width:1024px) and (max-width:1148px) {

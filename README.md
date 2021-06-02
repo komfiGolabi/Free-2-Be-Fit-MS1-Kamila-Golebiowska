@@ -139,7 +139,7 @@ I used certain parts of code from other sources and modified it for my needs
 * I had some issues with responsivenesss so I used media querys to fix the issues,for example in an 768px screen the navbar wasnt responsive, so I had to change the font size of the links.
 
  ### Existing Bugs
- * On 768px screen the Instagram icon appears next to Facebook link instead of Instagram link.
+
  * Background photos might sometimes load slower.
  
 
