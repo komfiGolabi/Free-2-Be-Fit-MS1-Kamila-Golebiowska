@@ -2,7 +2,11 @@
 ##  Code created by Kamila Golebiowska for Code Institute
 ## Languages used: HMTL, CSS and Bootstrap Framework.
 
-![Project on different devices](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/responsive.png)
+
+[Free 2 Be Fit Live Page](https://komfigolabi.github.io/Free-2-Be-Fit/)
+
+
+![Project on different devices](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/assets/images/responsive.png)
 
 
 
@@ -16,7 +20,7 @@ Fitness Studio Free 2 be fit’s goal is to find a broad clientele searching for
 
 Navigation Bar will contain an easy and clear menu to navigate through page with Homepage, Services, Fees/Timetable, Contact/ Booking Page, plus on the bigger screen there will be a button that will take you to the booking site, for a bit easier access to it.
 
-![Navbar Image](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/navbar.png)
+![Navbar Image](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/assets/images/navbar.png)
 
 ###  Footer
 
@@ -47,6 +51,8 @@ This section will have all information of how to contact the studio, as well as 
  One menu link and two buttons on the page will lead to the same page to make a contact with the business. Layout won't be overbearing, but will intuitively lead a customer to the booking page.
  ![Form](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/form.png)
 
+
+
  ### Features to add in future
 
  * location to be added and a map of it 
@@ -75,6 +81,7 @@ This section will have all information of how to contact the studio, as well as 
 
 
 ## Wireframes
+
 
 
 
@@ -167,7 +174,7 @@ I used certain parts of code from other sources and modified it for my needs
 * Fees and timetable page showed no errors of warnings after putting the code as a direct input into the html validator page.
 * contact page showed no errors or warnings after putting the code as a direct input into the html validator page.
 
-![image of passed validator page](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/validator.png)
+![image of passed validator page](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/assets/images/validator.png)
 
 [CSS Validator Page](https://jigsaw.w3.org/css-validator/)
 * Code from style.css was copied as a direct input into the CSS validator page and no errors were found, only one warning, where I put button background color and a border in the same color.
@@ -204,6 +211,17 @@ Google Dev Tool: Lighthouse
 2. I worked on my site and in the cdr terminal was adding the changes, then commiting them with the information about the changes, once I was happy with everything I worked with I was pushing it,so it is stored in Git Hub.
 3. To make a shareable link of my project, once in the repository, I went into Settings, then in the Git Hub Pages sections in the source window I put master branch and /root file. I saved it and it created the link within the repository.
  
+
+ ## Steps to get into the project and how to clone the repository
+
+ * Click on the provided link to my Github repository.
+ [Click here to the project](https://github.com/komfiGolabi/Free-2-Be-Fit)
+ * Once inside click on the Code button and press either clone or download.
+ * Under the option HTTP, press the clipboard, that has the link inside  and copy it.
+ * open the terminal you are using for your computer
+ * choose the location where you would like to store the repo, locally
+ * in the terminal now you can use the command git clone and the link.
+
 
 
 
