@@ -81,6 +81,7 @@ This section will have all information of how to contact the studio, as well as 
 
 
 ## Wireframes
+ [Wireframes](https://docs.google.com/document/d/1SbT3WiQdiTmgDclI1hOKWrrwNUjjruf_Y3Fdv4cgRgo/edit?usp=sharing)
 
 
 
