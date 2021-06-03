@@ -26,7 +26,7 @@ Navigation Bar will contain an easy and clear menu to navigate through page with
 
 Footer will be be built from the Bootstrap cards and will give and extra neccessary info for the business and how to conect with it:contact card, social media card, booking card and services card. Footer will be in the same color as the navigation bar for the design to be uniformed.
 
-![Footer](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/footer.png)
+![Footer](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/assets/images/footer.png)
 
 ### Home Page:
 
@@ -42,14 +42,14 @@ The section will be clear, so everyone understands what class is for, so a poten
 ### Fees & Timetable
 
 In this section we will have timetable for the classes as well as a bit of an info about the prices.
-![Timetable](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/timetable.png)
+![Timetable](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/assets/images/timetable.png)
 
 
 ### Contact Us/ Book Here
 
 This section will have all information of how to contact the studio, as well as a booking/sign up form.
  One menu link and two buttons on the page will lead to the same page to make a contact with the business. Layout won't be overbearing, but will intuitively lead a customer to the booking page.
- ![Form](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/form.png)
+ ![Form](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/assets/images/form.png)
 
 
 
@@ -184,9 +184,9 @@ Google Dev Tool: Lighthouse
 
  * I made reports for each site on both desktop and mobile options.The score was fluctuating slightly at different points in time. The below photo shows the final raport.  
 
- ![Lighthouse Desktop](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/lighthouse%20raport-desktop.png)
+ ![Lighthouse Desktop](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/assets/images/lighthouse%20raport-desktop.png)
 
- ![Lighthouse Homepage Mobile](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/lighthouse%20homepage-mobile.png)
+ ![Lighthouse Homepage Mobile](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/assets/images/lighthouse%20raport-mobile.png)
 
 
  
@@ -216,7 +216,7 @@ Google Dev Tool: Lighthouse
  ## Steps to get into the project and how to clone the repository
 
  * Click on the provided link to my Github repository.
- [Click here to the project](https://github.com/komfiGolabi/Free-2-Be-Fit)
+ [Click here for the project](https://github.com/komfiGolabi/Free-2-Be-Fit)
  * Once inside click on the Code button and press either clone or download.
  * Under the option HTTP, press the clipboard, that has the link inside  and copy it.
  * open the terminal you are using for your computer
