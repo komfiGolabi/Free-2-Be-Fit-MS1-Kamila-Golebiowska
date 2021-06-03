@@ -3,9 +3,8 @@ body {
     letter-spacing: 3px;
     margin:0;
     padding:66px 0 0 0;
-     
 }
-.container-fluid{
+.container-fluid {
     margin:0;
     padding:0;
 }
@@ -15,7 +14,7 @@ body {
     margin-right:0;
 }
 
-h1,h2{
+h1,h2 {
     text-align:center
 }
 
@@ -72,11 +71,8 @@ header li a:hover {
     letter-spacing:3px;
     font-size:1.2rem;
     background-color: #132C33;
-
-
     color:#51c4d3;
     text-transform: uppercase;
-    
 }
 
 button a:hover {
@@ -91,7 +87,7 @@ button a:hover {
     cursor:pointer;
 }
 
-.btn-submit{
+.btn-submit {
     cursor:pointer;
 }
 
@@ -99,7 +95,7 @@ button a:hover {
 
 /*-------------------------------------------Carousel-----*/
 
-.image-fluid{
+.image-fluid {
     opacity: 0.9;
 }
 
@@ -111,8 +107,8 @@ button a:hover {
     margin-right: -100%;
     height:auto;
     margin-top:-70px;
-
 }
+
 .carousel-caption{
     position: absolute;
     right: 15%;
@@ -131,8 +127,6 @@ button a:hover {
 }
 
 
-   
-
 /*-------------------------------------------Welcome Section-------------------------------*/
 
 
@@ -143,8 +137,7 @@ button a:hover {
     font-size:20px;
     letter-spacing:4px;
     text-transform: uppercase;
-
-    }
+}
 
 
 /*--------------------------------Testimonials------------------------------*/
@@ -211,8 +204,6 @@ footer a:hover{
     background-size:cover;
     width:100%;
     height:auto;
-
-    
 }
 
 

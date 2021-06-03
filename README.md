@@ -5,6 +5,8 @@
 ![Project on different devices](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/responsive.png)
 
 
+
+
 ## Project description and goals:
 
 Strategy/Project Goals
@@ -14,9 +16,13 @@ Fitness Studio Free 2 be fit’s goal is to find a broad clientele searching for
 
 Navigation Bar will contain an easy and clear menu to navigate through page with Homepage, Services, Fees/Timetable, Contact/ Booking Page, plus on the bigger screen there will be a button that will take you to the booking site, for a bit easier access to it.
 
+![Navbar Image](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/navbar.png)
+
 ###  Footer
 
 Footer will be be built from the Bootstrap cards and will give and extra neccessary info for the business and how to conect with it:contact card, social media card, booking card and services card. Footer will be in the same color as the navigation bar for the design to be uniformed.
+
+![Footer](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/footer.png)
 
 ### Home Page:
 
@@ -32,12 +38,14 @@ The section will be clear, so everyone understands what class is for, so a poten
 ### Fees & Timetable
 
 In this section we will have timetable for the classes as well as a bit of an info about the prices.
+![Timetable](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/timetable.png)
 
 
 ### Contact Us/ Book Here
 
 This section will have all information of how to contact the studio, as well as a booking/sign up form.
  One menu link and two buttons on the page will lead to the same page to make a contact with the business. Layout won't be overbearing, but will intuitively lead a customer to the booking page.
+ ![Form](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/form.png)
 
  ### Features to add in future
 
@@ -150,6 +158,8 @@ I used certain parts of code from other sources and modified it for my needs
 
 ## Testing
 
+[Check responsiveness](https://www.responsinator.com/?url=https%3A%2F%2Fkomfigolabi.github.io%2FFree-2-Be-Fit%2F)
+
 [HTML Validator Page](https://validator.w3.org/)
 
 * After testing Homepage in direct input, there were no errors or warnings.
@@ -157,12 +167,21 @@ I used certain parts of code from other sources and modified it for my needs
 * Fees and timetable page showed no errors of warnings after putting the code as a direct input into the html validator page.
 * contact page showed no errors or warnings after putting the code as a direct input into the html validator page.
 
+![image of passed validator page](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/validator.png)
+
 [CSS Validator Page](https://jigsaw.w3.org/css-validator/)
 * Code from style.css was copied as a direct input into the CSS validator page and no errors were found, only one warning, where I put button background color and a border in the same color.
 
 Google Dev Tool: Lighthouse 
 
- * I made reports for each site on both desktop and mobile options.
+ * I made reports for each site on both desktop and mobile options.The score was fluctuating slightly at different points in time. The below photo shows the final raport.  
+
+ ![Lighthouse Desktop](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/lighthouse%20raport-desktop.png)
+
+ ![Lighthouse Homepage Mobile](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/lighthouse%20homepage-mobile.png)
+
+
+ 
 
  ### First Time User:
 
