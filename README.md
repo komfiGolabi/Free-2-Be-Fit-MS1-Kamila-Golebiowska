@@ -44,9 +44,10 @@ This section will have all information of how to contact the studio, as well as 
  * location to be added and a map of it 
  * videos of the classes  
  * to exchange photos for the ones taken at the studio
- * adding an ifo about the trainers and staff 
+ * adding an info about the trainers and staff 
  * once email is set up there will be link in the footer that takes you to the pop-up e-mail message box.
 * every class or type of service in booking form will have only choice of dates and time when it is actually available or in timetable.
+* overlay to be added to the second carousel caption in smaller screens, for better visibility
 
 
  ## User Goals
@@ -141,6 +142,7 @@ I used certain parts of code from other sources and modified it for my needs
  ### Existing Bugs
 
  * Background photos might sometimes load slower.
+ * on some screens between the mobile and I pad the heading on the second carousel caption might not be that clear to see, overlay needed.
  
 
 
@@ -149,7 +151,8 @@ I used certain parts of code from other sources and modified it for my needs
 ## Testing
 
 [HTML Validator Page](https://validator.w3.org/)
-* After testing Homepage had no errors, only three errors regarding the use of h1 element, as I used it not only in the navbar as a name, but as well on carousel images.
+
+* After testing Homepage in direct input, there were no errors or warnings.
 * services page had no errors or warnings after putting the code as a direct input into the html validator page.
 * Fees and timetable page showed no errors of warnings after putting the code as a direct input into the html validator page.
 * contact page showed no errors or warnings after putting the code as a direct input into the html validator page.
@@ -157,10 +160,9 @@ I used certain parts of code from other sources and modified it for my needs
 [CSS Validator Page](https://jigsaw.w3.org/css-validator/)
 * Code from style.css was copied as a direct input into the CSS validator page and no errors were found, only one warning, where I put button background color and a border in the same color.
 
-Google Dev Tool
-* used throughout all the project 
+Google Dev Tool: Lighthouse 
 
-Lighthouse
+ * I made reports for each site on both desktop and mobile options.
 
  ### First Time User:
 
