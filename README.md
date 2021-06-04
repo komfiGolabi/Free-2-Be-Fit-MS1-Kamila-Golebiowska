@@ -189,6 +189,7 @@ Google Dev Tool: Lighthouse
  ![Lighthouse Homepage Mobile](https://raw.githubusercontent.com/komfiGolabi/Free-2-Be-Fit/master/assets/images/lighthouse%20raport-mobile.png)
 
 
+* Website was tested on various browsers: Chrome, Microsoft Edge and Mozzila Firefox and on all of those performed well.
  
 
  ### First Time User:
